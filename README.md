@@ -1,0 +1,11 @@
+- 👋 Hi, I’m Kang SuJi
+- 👀 I’m interested in assembling and taking pictures
+- 🌱 I’m currently learning C++ and Git
+- 📫 You can contact me at estrella0813@naver.com for how to contact me
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+KSJ-21/KSJ-21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
